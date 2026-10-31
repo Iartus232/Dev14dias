@@ -1,0 +1,19 @@
+14 DIAS PARA SOPHIA — VERSÃO DEV SOMENTE
+
+Este pacote inclui apenas a versão DEV do site, com o nome index.html.
+Não há versão pública separada neste ZIP.
+
+Arquivos:
+  index.html  → versão DEV, com painel de testes
+  musicas/    → 01.mp3 até 14.mp3
+  capas/      → 01.jpg até 14.jpg
+
+PARA TESTAR
+1. Extraia o ZIP inteiro.
+2. Abra index.html no navegador mantendo as pastas musicas e capas ao lado.
+3. Toque em 'DEV · CONTROLES' para simular dias, liberar capítulos e testar o player.
+
+ATENÇÃO:
+- Esta é a versão DEV e permite liberar antecipadamente os capítulos.
+- Não publique esta versão na página que a Sophia acessará: o painel de testes estará visível.
+- Disponibilizar publicamente gravações musicais e artes exige autorização dos titulares.
